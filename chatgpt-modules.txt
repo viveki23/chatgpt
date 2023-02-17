@@ -1,0 +1,6 @@
+developing module-
+1] Elegant user interface that resemble the chatgpt app. -done
+2] communication with gpt-3 model api.                   -done
+3] ability to ask the ai for help
+4] giving it code & translating it to another language.
+5] 
